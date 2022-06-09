@@ -1,0 +1,27 @@
+#content {
+    max-width: 960px;
+    margin: 0 auto;
+}
+#profile-image {
+    float: right;
+}
+img {
+    max-width: 100%;
+}
+header {
+    border-radius:1em 1em 1em 1em;
+    background-color: rgb(165, 42, 42);
+    margin: auto;
+    color: white;
+    padding: 0.5em;
+}
+main {
+    padding: 0.5em;
+}
+footer {
+    border-radius:1em 1em 1em 1em;
+    background-color: brown;
+    margin: auto;
+    color: white;
+    padding: 0.5em;
+}
